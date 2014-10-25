@@ -1,0 +1,15 @@
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\bin\Debug\depthdata3.exe
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\bin\Debug\depthdata3.pdb
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\MainWindow.baml
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\App.g.cs
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3_MarkupCompile.cache
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3.g.resources
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3.Properties.Resources.resources
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3.csproj.GenerateResource.Cache
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3.exe
+C:\Users\Chelsea\documents\visual studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3.pdb
+C:\Users\Chelsea\Documents\Visual Studio 2010\Projects\depthdata3\depthdata3\obj\x86\Debug\depthdata3.csprojResolveAssemblyReference.cache
